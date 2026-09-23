@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "52e3b095db5138ea8b9ab76f",
+  "owner": "jkcgyju7",
+  "repo": "page-d01f5eb3b944611031786cc2",
+  "title": "CK云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "d01f5eb3b944611031786cc2",
+      "a": "CK云",
+      "b": "2027官方最新地址导航",
+      "entity": "CK云",
+      "brand": "CK云",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "ec93df86a2df33db78a5669fe5ab983789c8ce5db94442296b6d013ee9984925",
+      "content": {
+        "primary_entity": "CK云",
+        "keyword1": "CK云",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "Windows、macOS、iOS、Android 与路由器场景可按系统选择对应客户端，参考配置文档导入订阅。",
+          "AI_CLIENTS_TITLE": "按设备匹配客户端",
+          "AI_CLOSING_TEXT": "对照设备数量与流量需求选定版本，再依照客户端文档完成订阅导入。",
+          "AI_CLOSING_TITLE": "选好版本即可配置",
+          "AI_DESCRIPTION": "，CK云面向需要海外加速的日常用户，提供基础版、旗舰版与团队版三档选择。基础版每月 100GB 流量、3 台设备在线，适合手机与笔记本轻度使用；旗舰版每月 300GB、5 台设备，并带有 IPLC 专线游戏优化与优先工单支持；团队版每月 1000GB、20 台设备，可做企业定制路由。按年付更省，分别只需 ¥150、¥350 与 ¥850。",
+          "AI_FEATURES_INTRO": "从流量、设备数量与线路特性三个角度对比，能更快定位合适的版本。",
+          "AI_FEATURES_TITLE": "套餐差异速览",
+          "AI_FEATURE_TEXT_1": "基础版 100GB、旗舰版 300GB、团队版 1000GB，按实际用量选档更合理。",
+          "AI_FEATURE_TEXT_2": "同时在线数从 3 台到 5 台再到 20 台，多设备家庭或小组按人数匹配。",
+          "AI_FEATURE_TEXT_3": "旗舰版含 IPLC 专线与原生流媒体解锁，团队版提供 VIP 高带宽与专属经理。",
+          "AI_FEATURE_TITLE_1": "流量梯度",
+          "AI_FEATURE_TITLE_2": "设备上限",
+          "AI_FEATURE_TITLE_3": "线路与支持",
+          "AI_GUIDE_INTRO": "三步完成从选版到订阅导入的配置。",
+          "AI_GUIDE_TITLE": "配置三步走",
+          "AI_HERO_INTRO": "CK云提供基础版、旗舰版与团队版三档海外加速订阅，覆盖从个人轻量使用到多设备团队协作的不同场景，按流量、设备数与线路特性区分，年付价格更划算。",
+          "AI_HERO_SUBTITLE": "三档套餐覆盖多设备加速",
+          "AI_HIGHLIGHT_1": "月付 ¥15 起，年付更省",
+          "AI_HIGHLIGHT_2": "100GB 至 1000GB 流量可选",
+          "AI_HIGHLIGHT_3": "3 至 20 台设备同时在线",
+          "AI_PLANS_INTRO": "基础版适合单人轻度使用，旗舰版兼顾游戏与流媒体，团队版面向多设备协作，按年付分别只需 ¥150、¥350 与 ¥850。",
+          "AI_PLANS_TITLE": "三档套餐对比",
+          "AI_STEP_TEXT_1": "先看每月流量与在线设备数，日常轻度选基础版，游戏或流媒体选旗舰版，多设备协作选团队版。",
+          "AI_STEP_TEXT_2": "确认所用系统与客户端，查看该客户端的适配说明，了解订阅导入方式与连接要求。",
+          "AI_STEP_TEXT_3": "在对应客户端中依照文档导入订阅信息，保存后选择合适线路节点完成连接。",
+          "AI_STEP_TITLE_1": "选定版本",
+          "AI_STEP_TITLE_2": "确认适配",
+          "AI_STEP_TITLE_3": "导入订阅",
+          "AI_VISUAL_TITLE": "CK云套餐与客户端配置",
+          "AI_FAQ_ANSWER_1": "基础版每月100GB流量，支持3台设备同时在线，适合个人轻度使用。",
+          "AI_FAQ_ANSWER_2": "流量按套餐规格提供，超出后可在账户内查看升级选项，无需重新购买线路。",
+          "AI_FAQ_ANSWER_3": "基础版3台、旗舰版5台、团队版20台，按年付与月付在设备数量上保持一致。",
+          "AI_FAQ_ANSWER_4": "桌面端和移动端分别有对应客户端，可在购买后按设备系统选择适配版本。",
+          "AI_FAQ_ANSWER_5": "旗舰版每月35元，含300GB流量、5台设备和IPLC专线游戏加速优化，适合多设备用户。",
+          "AI_FAQ_INTRO": "订阅流量、设备限制与计费周期。",
+          "AI_FAQ_QUESTION_1": "基础版包含多少流量和设备？",
+          "AI_FAQ_QUESTION_2": "流量用完后如何处理？",
+          "AI_FAQ_QUESTION_3": "不同套餐支持几台设备同时在线？",
+          "AI_FAQ_QUESTION_4": "如何选择适合设备的客户端？",
+          "AI_FAQ_QUESTION_5": "旗舰版适合哪些使用场景？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "yjyxt.cn",
+    "host": "yjyxt.cn"
+  },
+  "file_hashes": {
+    "index.html": "127450ff172d46aa52491d24639fb5856861d57e422ad03e4d63c81afa465014",
+    "sitemap.xml": "946af8591574359faa0b9675ae0b3fc7173f945f344f5d7bc481574ba36c3d85",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "5e3b220dd5210b5f9bce9e8d73249a4885599480502a10540cba7db32a357623",
+    "robots.txt": "4fe60431bc1c35a426ba3f3796608313a5234d2ef8178e9ef07a795d056a9619",
+    "d544b327cbf49ce1307d22ebc2e334d5.txt": "acca8ec746fcc23755cf0ddfda7659eb42181dc63f39ec98c6fafe87688dabaf"
+  },
+  "revision": "ef2e4a7ce240c5da7c5a2d6cde171776916daf955540c8f6fbab779ba73638a0"
+}
